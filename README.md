@@ -15,3 +15,5 @@ räumt Zwischenergebnisse weg. Und ja, es ist Absicht, dass ein PDF des
 jeweiligen Dokumentes im Repository ist -- es soll ja Leute geben, die
 mit git/make/pdflatex ein Problem haben, die aber trotzdem
 mitdiskutieren wollen.
+
+Alle Inhalte dieses Repository stehen unter der Creative Commons Namensnennung 3.0 Deutschland Lizenz.
